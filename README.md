@@ -1,2 +1,2 @@
 # VoiderInstaller
-Voider İnstaller:
+Voider İnstaller
